@@ -1,0 +1,6 @@
+incident_id,indicator_type,value,classification
+INC-2025-0141,domain,northwind-helpdesk.test,phishing
+INC-2025-0141,url,northwind-sso-verify.test,phishing
+INC-2025-0142,domain,northwlnd-logistics.test,bec
+INC-2025-0143,ip,203.0.113.45,malware
+INC-2025-0144,url,bit.ly/q3-budget-shared,oauth-phishing
